@@ -90,5 +90,4 @@ Deletes bookmark by ID:
 
 ## Requirements
 - go 1.13
-- docker & docker-compose
 

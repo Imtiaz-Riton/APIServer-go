@@ -3,6 +3,8 @@ Example that shows core principles of the Clean Architecture in Golang projects.
 
 More on Clean Architecture can be found <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">here</a>.
 
+Here is an implimentaion of Clean Architecture <a href="https://github.com/bxcodec/go-clean-arch">here</a>.
+
 ### Project Description&Structure:
 REST API with custom JWT-based authentication system. Core functionality is about creating and managing products
 
